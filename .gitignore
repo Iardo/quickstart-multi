@@ -1,0 +1,21 @@
+# ignore these folders
+/node_modules/**
+
+/.vscode/**
+
+/quickstart-drupal/
+/quickstart-godot/
+/quickstart-strapi/
+/quickstart-threejs/
+/quickstart-typescript/
+
+# ignore these files
+.ds_store
+.env
+
+# --------------------
+
+# include these folders
+
+# include these files
+

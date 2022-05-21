@@ -1,0 +1,15 @@
+{
+  "name": "quickstart-multi",
+  "version": "0.0.0",
+  "description": "A collection of generators to scaffold and quickstart your projects",
+  "scripts": {
+    "start": "npm run setup && npm run update && npm run install",
+    "setup": "npm install --global meta",
+    "update": "meta git update",
+    "install": "meta npm install"
+  },
+  "license": "UNLICENSE",
+  "dependencies": {
+    "meta": "^0.0.6"
+  }
+}

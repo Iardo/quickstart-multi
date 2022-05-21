@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "quickstart-drupal": "https://github.com/Iardo/quickstart-drupal",
+    "quickstart-godot": "https://github.com/Iardo/quickstart-godot",
+    "quickstart-strapi": "https://github.com/Iardo/quickstart-strapi",
+    "quickstart-threejs": "https://github.com/Iardo/quickstart-threejs",
+    "quickstart-typescript": "https://github.com/Iardo/quickstart-typescript"
+  }
+}
